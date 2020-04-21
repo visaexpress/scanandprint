@@ -1,0 +1,12 @@
+D:\Developer\Repos\EscPosPrint\EscPosPrint\bin\Debug\netcoreapp2.1\EscPosPrint.deps.json
+D:\Developer\Repos\EscPosPrint\EscPosPrint\bin\Debug\netcoreapp2.1\EscPosPrint.runtimeconfig.json
+D:\Developer\Repos\EscPosPrint\EscPosPrint\bin\Debug\netcoreapp2.1\EscPosPrint.runtimeconfig.dev.json
+D:\Developer\Repos\EscPosPrint\EscPosPrint\bin\Debug\netcoreapp2.1\EscPosPrint.dll
+D:\Developer\Repos\EscPosPrint\EscPosPrint\obj\Debug\netcoreapp2.1\EscPosPrint.csprojAssemblyReference.cache
+D:\Developer\Repos\EscPosPrint\EscPosPrint\obj\Debug\netcoreapp2.1\EscPosPrint.csproj.CoreCompileInputs.cache
+D:\Developer\Repos\EscPosPrint\EscPosPrint\obj\Debug\netcoreapp2.1\EscPosPrint.AssemblyInfoInputs.cache
+D:\Developer\Repos\EscPosPrint\EscPosPrint\obj\Debug\netcoreapp2.1\EscPosPrint.AssemblyInfo.cs
+D:\Developer\Repos\EscPosPrint\EscPosPrint\bin\Debug\netcoreapp2.1\EscPosPrint.pdb
+D:\Developer\Repos\EscPosPrint\EscPosPrint\obj\Debug\netcoreapp2.1\EscPosPrint.dll
+D:\Developer\Repos\EscPosPrint\EscPosPrint\obj\Debug\netcoreapp2.1\EscPosPrint.pdb
+D:\Developer\Repos\EscPosPrint\EscPosPrint\bin\Debug\netcoreapp2.1\PersonInfo.txt

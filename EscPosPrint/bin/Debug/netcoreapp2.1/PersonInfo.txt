@@ -1,0 +1,35 @@
+﻿Last Name: Richards
+First Name: Peter 
+Middle Name: Benedict
+Age: 27
+Birth Date: 27/10/1992
+Gender: Male
+Address: 30b Coltsfoot Drive
+City: Bristol
+Postcode: BS3 7JD
+Ethnicity: White British
+Religion: N/A
+Political Views: Left Leaning
+Radicalisation Potential: 15%
+Employment Status: Student
+Marital Status: Single
+Mother: Janice Richards (deceased)
+Father: Michael Richards
+Phone Number: 07783637129
+Password: Bunny123
+Medical Information: 
+/Asthma
+/High risk of dementia
+/Nut allergy
+Hobbies:
+/Football
+/Painting
+/Video games
+Recently Visited Websites:
+/https://my.uwe.ac.uk/uPortal/f/u31l1s1100/normal/render.uP
+/https://www.Facebook.com/laurenmarie1996
+/https://www.amazon.co.uk/Canon-4000D-Camera-18-55-3-5-5-6/
+Most Visited Locations:
+/51.501681, -2.548304
+/51.441605, -2.611767
+/51.523819, -0.094263
